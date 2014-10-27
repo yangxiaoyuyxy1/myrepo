@@ -269,7 +269,7 @@ if __name__=='__main__':
     initlog('mm_crawler')
     
     start_url='http://www.22mm.cc'
-    start_url='http://www.qq.com'
+    start_url='http://www.nipic.com'
     
     if(not os.access(pic_dir,os.F_OK)):
         os.mkdir(pic_dir)
